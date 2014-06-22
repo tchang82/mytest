@@ -9,4 +9,10 @@ public class blah
 	{
 		return "blah";
 	}
+	
+	private void DoSomething()
+	{
+		Console.Writeline("Doing something now");
+	}
 }
+
