@@ -1,1 +1,2 @@
 Adding some context here, and here a well
+Trying to add a new line so I create a merge conflict with the master
