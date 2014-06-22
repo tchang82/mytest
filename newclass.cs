@@ -4,4 +4,9 @@ public class blah
 	{
 		DoSomething();
 	}
+	
+	public string ReturnBlah()
+	{
+		return "blah";
+	}
 }
