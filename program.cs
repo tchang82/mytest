@@ -7,6 +7,6 @@ public class HelloWorld
     
     private static string GetName()
     {
-    	return "tchang82" //intentionally forgetting the ending semicolon
+    	return "tchang82";
     }
 }
