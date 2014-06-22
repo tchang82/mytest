@@ -1,4 +1,4 @@
-public class blah
+public class Blah
 {
 	public void DoBlah()
 	{
@@ -16,3 +16,10 @@ public class blah
 	}
 }
 
+public class BetterBlah : Blah
+{
+	public void DoBlah(enum actionType)
+	{
+		//Take actionType and do something with it	
+	}	
+}
