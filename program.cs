@@ -9,4 +9,9 @@ public class HelloWorld
     {
     	return "tchang82";
     }
+    
+    private static int GetRandom()
+    {
+        return Random.random();
+    }
 }
