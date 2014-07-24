@@ -1,4 +1,5 @@
 using System;
+
 public class HelloWorld
 {
     public static void Main(string[] args) {
@@ -12,6 +13,6 @@ public class HelloWorld
     
     private static int GetRandom()
     {
-        return Random.random();
+        return new Random().Next();
     }
 }
